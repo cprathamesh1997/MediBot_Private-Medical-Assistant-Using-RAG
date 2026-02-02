@@ -30,6 +30,6 @@
 
 * __vectorstore__: Stores the serialized FAISS index.
 
-*__App.py__: Full-featured Streamlit chatbot with conversational memory.
+* __App.py__: Full-featured Streamlit chatbot with conversational memory.
 
 ## Live demo available here :- https://huggingface.co/spaces/cprathamesh1997/Medical_Issues_Chatbot
